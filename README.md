@@ -16,7 +16,7 @@ A comprehensive 360 degree business analysis for a major Brazilian e-commerce pl
 * Developed a Python ETL pipeline using Pandas to ingest raw datasets, handle missing values, and engineer operational delivery metrics.
 * Wrote complex SQL relational queries to isolate long-tail logistical delays, calculate freight-to-price ratios, and filter historical trends.
 * Designed a dark-mode Power BI dashboard using an optimal star schema and advanced DAX to deliver multi-level time intelligence and executive-level performance indicators.
-* Repository: [View Project](https://github.com/SaarLamdan/Olist-E-commerce-Performance-Analysis)
+* Repository: [View Project](https://github.com/SaarLamdan/Olist-Ecommerce-PowerBI-Analysis)
 ### Football Scouting Analytics Platform
 An end to end data analytics platform designed for professional football scouting departments.
 * Built a robust Python ETL pipeline using Pandas to ingest, clean, and sort multi-table football datasets.
