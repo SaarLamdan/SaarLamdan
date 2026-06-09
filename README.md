@@ -22,12 +22,12 @@ An end to end data analytics platform designed for professional football scoutin
 * Built a robust Python ETL pipeline using Pandas to ingest, clean, and sort multi-table football datasets.
 * Wrote advanced SQL Server queries utilizing window functions to isolate market value volatility and performance tiers.
 * Designed an interactive dark-mode Power BI dashboard featuring normalized per 90 metrics, dynamic player status logic, and auto-zoom geographical mapping.
-* Repository: [View Project](https://github.com/saarlamdan/Football-Scouting-Analytics-Platform)
+* Repository: [View Project](https://github.com/SaarLamdan/Football-Scouting-Analytics-Platform)
 
 ## Domain Interests
 * Sports Analytics: Advanced performance metrics, efficiency normalization, and recruitment optimization models.
 * Capital Markets: Financial trading systems, technical indicators, and portfolio risk management analysis.
 
 ## Connect With Me
-* LinkedIn: linkedin.com/in/saarlamdan
+* LinkedIn: www.linkedin.com/in/saarlamdan
 * Email: Saarlamad100@gmail.com
